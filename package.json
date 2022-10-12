@@ -1,0 +1,23 @@
+{
+  "name": "first-solo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "credenting.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorwinHiatt/soloProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorwinHiatt/soloProject/issues"
+  },
+  "homepage": "https://github.com/CorwinHiatt/soloProject#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
